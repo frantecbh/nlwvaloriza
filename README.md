@@ -8,9 +8,9 @@
     [ x ] Não é permitido cadastrar usuário sem e-mail.
 
 - Cadastro de TAG
-
-    [ ] Não é permitido cadastrar mais de uamtag com o mesmo nome.
-    [ ] Não é permitido cadastrar tag sem nome.
+    
+    [ x ] Não é permitido cadastrar tag sem nome.
+    [ x ] Não é permitido cadastrar mais de uamtag com o mesmo nome.    
     [ ] Não é perimitido o cadastro por usuários que não sejam administradores.
 
 - Cadastro de elogios
